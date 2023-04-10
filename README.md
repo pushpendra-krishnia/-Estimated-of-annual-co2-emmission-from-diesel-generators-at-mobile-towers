@@ -31,17 +31,13 @@ https://www.statista.com/statistics/805605/total-population-sub-saharan-africa/[
 
 ### **Developer Information:**
 
-Name-Surname: **Emirhan BULUT**
+Name-Surname: **Pushpendra krishnia**
 
-Contact (Email) : **emirhan.bulut@turkiyeyapayzeka.com**
+Contact (Email) : **pushpendrakrishnia@gmail.com**
 
-LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][LinkedinAccount]**
+LinkedIn : **[https://www.linkedin.com/in/pushpendra-krishnia-a1403b228/][LinkedinAccount]**
 
-[LinkedinAccount]: https://www.linkedin.com/in/artificialintelligencebulut/
 
-Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
-
-[OfficialWebSite]: https://www.emirhanbulut.com.tr
 
 [DataSource]: https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/09/Clean_Tech_Report_R_WebSingles.2.pdf
 
